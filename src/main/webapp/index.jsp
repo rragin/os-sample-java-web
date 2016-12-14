@@ -13,8 +13,8 @@
 			
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 		<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false&key=AIzaSyCZ3WcxgrKPMz3HFRR76XjSAVHhKdiuFQg&libraries=geometry"></script>
-		<!--  <script src="mapAircraft.js"></script>
-		<script src="artcc.js"></script>-->
+		<script src="mapAircraft.js"></script>
+		<!-- <script src="artcc.js"></script>-->
 		
 		<style>
 			table, th, td {
